@@ -15,22 +15,11 @@ Containes python scripts and results, version in Zenodo:
 
 [extractions_of_items_from_vetduat.py](https://github.com/bazyliszek/VKM-001-nitrit-nitrate/blob/main/extractions_of_items_from_vetduat.py) extracts food items from the VetDuAt database, provided as pickle file or excel file.  
 
-
-
-[createPcaSetv4.py](https://github.com/bazyliszek/methAI/blob/main/createPcaSetv4.py) takes as its input a folder containing files downloaded from TCGA. Reads the methylation data from each patient, then performs dimensional reduction to reduce the data to a smaller set, then separates the data into training, validation, and testing sets, then pickles the resulting object. That pickle file can be used by the rest of the program.
-
-
-
-# Details
-## createPcaSetv4.py
-createPcaSetv4 is given a folder containing subfolders containing jhu files. It reads them and removes any that contain too many NAs, then reduces the datapoints to a given number of dimesions using either PCA to compress the locations together or a decision tree to select the locations most likely to be useful for further analysis.
-
-
+[venn_intersections.py](https://github.com/bazyliszek/VKM-001-nitrit-nitrate/blob/main/venn_intersections.py) produces excel files with food items at intersections of venn diagrams as well as raw venn diagrams 
 
 
 # Abstract
 
-Aberrant 
 
 # Keywords
 AI, VKM, nitrite, nitrate, foods, overview, foods
