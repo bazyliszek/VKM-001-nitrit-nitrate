@@ -14,6 +14,11 @@ Flow chart illustrating extraction strategy from the VetDuAt database. Elements 
 
 [venn_intersections.py](https://github.com/bazyliszek/VKM-001-nitrit-nitrate/blob/main/venn_intersections.py) produces excel files with food items at intersections of venn diagrams as well as raw venn diagrams, input comes from the firs file 
 
+[Nitrates_NO.xlsx](https://github.com/bazyliszek/VKM-001-nitrit-nitrate/blob/main/Nitrates_NO.xlsx) produces excel file with foods with key words containing nitrates 
+[Nitrites_NO.xlsx](https://github.com/bazyliszek/VKM-001-nitrit-nitrate/blob/main/Nitrites_NO.xlsx) produces excel file with foods with key words containing nitrites 
+[Foods_NO.xlsx](https://github.com/bazyliszek/VKM-001-nitrit-nitrate/blob/main/Foods_NO.xlsx) produces excel file with foods with key words containing nitrates or nitrites in foods 
+[Extracts_NO.xlsx](https://github.com/bazyliszek/VKM-001-nitrit-nitrate/blob/main/Extracts_NO.xlsx) produces excel file with foods with key words containing nitrates or nitrites in extracts 
+
 
 # Abstract
 A pragmatic approach was applied to identify nitrate and/or nitrite containing products on the Norwegian market. The VetDuAt database, a comprehensive but not exhaustive database of food items on the Norwegian market, was the single source used to identify these food items. 
