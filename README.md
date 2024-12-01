@@ -4,6 +4,6 @@
 
 # Flow chart illustrating extraction strategy from the VetDuAt database. Elements are introduced to gain sensitivity (shown in green), and specificity (shown in red). Threshold for similarity is especially important to gain additional sensitivity, however a dictionary with forbidden words and segments is crucial for specificity. 
 
-![Figure: A](https://raw.githubusercontent.com/bazyliszek/VKM-001-nitrit-nitrate/main/VetDuAt_Fig_2109.jpg)
+![Figure: A](https://github.com/bazyliszek/VKM-001-nitrit-nitrate/main/VetDuAt_Fig_2109.jpg)
 
 # Additional explanation can be found in the VKM report.
