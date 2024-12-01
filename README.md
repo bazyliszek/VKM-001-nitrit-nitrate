@@ -6,7 +6,7 @@ Containes python scripts for methAI, version in Zenodo:
 # Flow chart illustrating extraction strategy from the VetDuAt database. Elements are introduced to gain sensitivity (shown in green), and specificity (shown in red). Threshold for similarity is especially important to gain additional sensitivity, however a dictionary with forbidden words and segments is crucial for specificity. 
 
 # Simplified pipeline
-![alt text](https://github.com/bazyliszek/VKM-001-nitrit-nitrate/blob/main/VetDuAt_Fig_2109.jpg)
+![low chart illustrating extraction strategy from the VetDuAt database. Elements are introduced to gain sensitivity (shown in green), and specificity (shown in red). Threshold for similarity is especially important to gain additional sensitivity, however a dictionary with forbidden words and segments is crucial for specificity. ](https://github.com/bazyliszek/VKM-001-nitrit-nitrate/blob/main/VetDuAt_Fig_2109.jpg)
 
 # Additional explanation can be found in the VKM report.
 
