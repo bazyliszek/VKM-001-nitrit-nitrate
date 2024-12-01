@@ -1,4 +1,4 @@
-# Mapping of dietary sources of nitrates and nitrites. Part 1 of the risk assessment of nitrates and nitrites in food
+# Supplementary material for: Mapping of dietary sources of nitrates and nitrites. Part 1 of the risk assessment of nitrates and nitrites in food
 
 Containes python scripts and results, version in Zenodo:
 [![DOI](https://zenodo.org/badge/320275625.svg)](https://zenodo.org/doi/10.5281/zenodo.14253302)
