@@ -3,7 +3,7 @@
 Containes python scripts and results, version in Zenodo:
 [![DOI](https://zenodo.org/badge/320275625.svg)](https://zenodo.org/doi/10.5281/zenodo.11530986XXX)
 
-# Flow chart illustrating extraction strategy from the VetDuAt database. Elements are introduced to gain sensitivity (shown in green), and specificity (shown in red). Threshold for similarity is especially important to gain additional sensitivity, however a dictionary with forbidden words and segments is crucial for specificity. 
+Flow chart illustrating extraction strategy from the VetDuAt database. Elements are introduced to gain sensitivity (shown in green), and specificity (shown in red). Threshold for similarity is especially important to gain additional sensitivity, however a dictionary with forbidden words and segments is crucial for specificity. 
 
 # Simplified pipeline
 ![Figure 1](https://github.com/bazyliszek/VKM-001-nitrit-nitrate/blob/main/VetDuAt_Fig_2109.jpg)
@@ -25,5 +25,5 @@ Containes python scripts and results, version in Zenodo:
 AI, VKM, nitrite, nitrate, foods, overview, foods
 
 # Requirements
-Python 3.0
+Python 3.0; os; pickle; pandas import read_excel, ExcelWriter; re; csv; thefuzz; 
 
