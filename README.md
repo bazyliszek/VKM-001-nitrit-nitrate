@@ -13,7 +13,9 @@ Containes python scripts and results, version in Zenodo:
 
 # Summary
 
-[decisionTreeDimReduction.py](https://github.com/bazyliszek/methAI/blob/main/decisionTreeDimReduction.py) uses XXX
+[extractions_of_items_from_vetduat.py](https://github.com/bazyliszek/VKM-001-nitrit-nitrate/blob/main/extractions_of_items_from_vetduat.py) extracts food items from the VetDuAt database, provided as pickle file or excel file.  
+
+
 
 [createPcaSetv4.py](https://github.com/bazyliszek/methAI/blob/main/createPcaSetv4.py) takes as its input a folder containing files downloaded from TCGA. Reads the methylation data from each patient, then performs dimensional reduction to reduce the data to a smaller set, then separates the data into training, validation, and testing sets, then pickles the resulting object. That pickle file can be used by the rest of the program.
 
