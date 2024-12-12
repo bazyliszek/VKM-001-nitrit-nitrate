@@ -30,7 +30,8 @@ During extraction, certain terms that should not be matched were identified and 
 Additionally, special handling was implemented for E numbers due to inconsistencies in their recording in the database (e.g., ‘konserveringsmiddel,’ ‘middel,’ ‘konserveringsmiddel-E,’ ‘E-,’ etc.), which could lead to missed matches.
 Finally, we refined our search using the created function `compareIndex` to assess the impact of further lowering the fuzzy matching cutoffs (70, 60) which was compared to the high cutoffs (95, 80) to assess additional gain of lowering this cutoff (Figure 2.1.3-1). In this way we could assess whether lowering the cutoff had an additional gain or only contributed to noise in the search.
 
-# Additional explanation can be found in the VKM report.
+# Additional explanation can be found in the VKM report:
+https://vkm.no/risikovurderinger/allevurderinger/lagetoversiktovermatvarermednitratognitritt.4.89d75fe1938606a073bd173.html
 
 # Keywords
 AI, VKM, nitrite, nitrate, foods, overview, foods
