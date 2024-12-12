@@ -1,11 +1,7 @@
 # Supplementary material for: Mapping of dietary sources of nitrates and nitrites. Part 1 of the risk assessment of nitrates and nitrites in food
 
 Containes python scripts and results, version in Zenodo:
-[![DOI](https://zenodo.org/badge/14253301.svg)](https://zenodo.org/doi/10.5281/zenodo.14253301)
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14253302.svg)](https://doi.org/10.5281/zenodo.14253302)
-
-DOI 10.5281/zenodo.14253301
 
 Flow chart illustrating extraction strategy from the VetDuAt database. Elements are introduced to gain sensitivity (shown in green), and specificity (shown in red). Threshold for similarity is especially important to gain additional sensitivity, however a dictionary with forbidden words and segments is crucial for specificity. 
 
